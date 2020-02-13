@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div class="col m6 s1">
+      <h5 class="black-text">GRUPPO DI LAVORO - CREDITS</h5>
+      <ul>
+        <li><a href="" class="black-text">Alessandro Bonizzato</a></li>
+        <li><a href="" class="black-text">Andrei Anton</a></li>
+        <li><a href="" class="black-text">Davide Isoni</a></li>
+        <li><a href="" class="black-text">Haowei Du</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="col l6 s12">
+  <ul>
+    <h5 class="black-text">FONTI</h5>
+    <li class="black-text" id="fonti"><b>Suoni: </b><a href="" class="orange-text bolder">a</a> </li>
+    <li class="black-text" id="fonti"><b>Immagini: </b><a href="" class="orange-text bolder">a</a></li>
+    <li class="black-text" id="fonti"><b>Informazioni: </b><a href="" class="orange-text bolder">a</a></li>
+  </ul>
+</div>
+
+copyright:
+  - texttomp3.online
+  - vectorfree.com
+  - coolwallpaperz.info
+  - clipart-library.com
+  - freepik.com
+  - materializecss.com (di Google)
+  - Pixel perfect (icona)
+
+2o gioco:
