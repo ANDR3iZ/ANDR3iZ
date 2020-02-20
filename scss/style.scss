@@ -3,8 +3,16 @@
 @import "bootstrap/mixins";
 
 /* Base */
+
 @import "site-base";
+
 /* Navbar */
+
 @import "site-navbar";
+
 /* Blocks */
+
 @import "site-blocks";
+.par {
+    font-size: 12px;
+}
